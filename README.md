@@ -1,7 +1,5 @@
 # Whiteboard-remo
 
-**Checkout the live website [here](https://remo-whiteboard-production.up.railway.app/)**
-
 
 ### A real-time whiteboard ###
 - Implemented using socketIO
