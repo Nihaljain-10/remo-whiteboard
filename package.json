@@ -12,7 +12,7 @@
     "p5.js",
     "node"
   ],
-  "author": "Mansi Sharma",
+  "author": "Nihal jain",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
